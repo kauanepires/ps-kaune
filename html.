@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html lang="PT-BR">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    ,<link rel="stylesheet" href="dodo.css">
+
+    <title>Meias</title>
+
+</head>
+
+<body>
+
+    
+
+</body>
+
+
+
+
+<div class="dodo"></div>
+
+<div class="produto.img"></div>
+
+<div class="product-text">
+
+<img src="images.jpeg" height="420" width="327">
+
+<h1> Meias de alta qualidade</h1>
+
+<h2> nike é melhor</h2>
+
+<p Meias anti-aderentes para atividades esportivas></p>
+
+
+
+
+<div></div>
+
+ 
+
+<div class="precobotao">
+
+    <p><span> R$ 29,90</span></p>
+
+    <button type="button">compre</button>
+
+</div>
+
+</div>
+
+<div></div>
+
+
+
+
+</html>
